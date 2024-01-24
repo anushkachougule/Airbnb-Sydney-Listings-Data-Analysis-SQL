@@ -2,4 +2,5 @@
 Part of the SQL for Data Science course at CoRise. This project aims to apply SQL commands to help with customer support for the Airbnb launch in Sydney in various scenarios that a General Manager would face.
 
 ## Dataset
+In this project, I employed the Airbnb Listings in Sydney dataset. As the General Manager overseeing the Sydney region for Airbnb, my objective is to gain insights into the various houses listed by my team. I have access to distinct tables containing information about listings, neighborhoods, reviews, and calendar details.
 ![](https://github.com/anushkachougule/Airbnb-Sydney-Listings-Data-Analysis-SQL/blob/main/images/SQLCC%20Dataset%20img.png)
