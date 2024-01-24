@@ -15,7 +15,7 @@ In this project, I employed the Airbnb Listings in Sydney dataset. As the Genera
 - Conditional statements and Pivoting: CASE statement, GROUP BY, Pivots.
 
 ## Completion certificate
-![]()
+![](https://github.com/anushkachougule/Airbnb-Sydney-Listings-Data-Analysis-SQL/blob/main/images/Uplimit%20SQL%20Crash%20Course%20certificate-1.png)
 
 
 
