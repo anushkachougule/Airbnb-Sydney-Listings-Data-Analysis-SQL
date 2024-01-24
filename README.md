@@ -14,6 +14,9 @@ In this project, I employed the Airbnb Listings in Sydney dataset. As the Genera
 - Data aggregation methods: SUM, COUNT, AVG, MIN, MAX, ORDER BY, LIMIT.
 - Conditional statements and Pivoting: CASE statement, GROUP BY, Pivots.
 
+## Completion certificate
+![]()
+
 
 
 
